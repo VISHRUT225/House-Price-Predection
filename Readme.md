@@ -1,6 +1,5 @@
 # 🏠📈 House Price Prediction
-![house (Custom)](https://github.com/VISHRUT225/House-Price-Predection/assets/102377338/2c47c2d5-a150-4353-98c8-7106dded33d1)
-
+![house (Custom)](https://github.com/VISHRUT225/House-Price-Predection/assets/102377338/65a065fc-3d59-4fd5-aca1-bc3221171c4d)
 
 ## 📢 Introduction
 
