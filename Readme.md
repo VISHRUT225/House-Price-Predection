@@ -40,6 +40,8 @@ The machine learning models achieved the following Mean Absolute Percentage Erro
 - Gradient Boosting Regressor: 19.16%
 - K-Nearest Neighbors (KNN): 20.58%
 
+![graph](https://github.com/VISHRUT225/House-Price-Predection/assets/102377338/1edda8ce-e41c-4f3e-b50c-41242e18270b)
+
 Based on the performance comparison of the models, the "Gradient Boosting Regressor" has the lowest Mean Absolute Percentage Error (MAPE).
 
 ## 🤝 Contributing
